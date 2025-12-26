@@ -100,6 +100,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKAFBSAA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Crash_proof_PDB\Design Rule Check - rev2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
